@@ -17,6 +17,7 @@
 }
 
 - (BOOL)refresh:(NSError**)error {
+  return NO;
 }
 
 @end
